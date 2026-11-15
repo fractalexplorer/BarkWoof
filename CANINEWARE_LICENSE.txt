@@ -1,0 +1,27 @@
+CANINEWARE LICENSE — VERSION 1.0
+================================
+
+THE KINDNESS CLAUSE
+
+Each time you use a script distributed under the CanineWare License,
+you must perform one random act of kindness to a dog.
+
+The act of kindness must be safe, respectful, and genuinely kind to the
+dog. Examples include offering fresh water, a welcome scratch, a walk,
+playtime, or a donation to help a dog in need.
+
+PERMISSION
+
+You may use, copy, modify, and share this software, provided this
+CanineWare License notice accompanies the software.
+
+NO WARRANTY
+
+The software is provided "as is," without warranties of any kind.
+
+REMINDER
+
+ONE USE = ONE RANDOM ACT OF KINDNESS TO A DOG.
+
+This is a whimsical custom software license, not a standardized or
+Open Source Initiative-approved license.
